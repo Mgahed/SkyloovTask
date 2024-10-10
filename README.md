@@ -45,7 +45,7 @@ This project is a **Task Management API** built using **Laravel**. The API allow
    ```bash
     php artisan test
     ```
-10. Find postman collection in the root directory of the project named `Skyloov_task.postman_collection.json`
+10. Find postman collection in the root directory of the project named `Skyloov_task.postman_collection.json` => https://github.com/Mgahed/SkyloovTask/blob/master/Skyloov_task.postman_collection.json
 
 ## API Endpoints
 
